@@ -1,2 +1,2 @@
-# MT80437
+I tried to debug with a new go rapper application level called Helena waves and it's a call for me the bus through chain of garbage to move forward and try to attempted the image with the attorney about the 48 by 48 bit threshold I got 70% image and then you know I thought I thought that was good enough so I fed that through I could probably ever done I don't know if I can sit here but it's it's good that ice there's a whole lot of there's a web page I thought I was actually f****** individual basic but it was it and then she had like shifts to what's this year that that was so weak now I'm afraid I'm going to lose it I play settings moving forward love you# MT80437
 MindTemple80437
