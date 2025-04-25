@@ -5,3 +5,30 @@ daddy says I was sick&:$xo
 EmmiitBrown RoutingProtocolHive 
 
 *coughs* echo bruh
+integer buffer
+decimal buffer
+character buffer
+string buffer
+
+# I+4^4
+# I+2^0.1
+# I-2^0.100000
+# I-(4-2)^(3-2)
+# I-((3-2)^3-2)
+#. func{interlock X-3^3
+array get
+array put{diag2 $api
+array access 
+#character buffer
+#
+#
+# DWORD | cmd.exe cd ..
+DWORD cmd.exe netstat -b
+5i{Lucifer 
+#
+#
+stringbuffer box1.go
+stringbuffer box2.go
+stringbuffer box3bingbox.go
+stringbuffer &;
+stringbuffer corn.xo
