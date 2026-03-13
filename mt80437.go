@@ -35,4 +35,10 @@ RTN1 cp0x55
 func{Standard_imm
 useQoS(5) -Y Dave_str: 55xxxx;
 diag if=$
-diag if=used
+diag if=used //Type: defines the datagram as a slat encapsulator with outbound priority.
+// diagnostics chronic nostate" bitshift above 0x45 01"
+// diagnostics gnosis nostate4 0x50 00"
+// diag returns 
+UID: symbolic slat identifier—composed from sender initials (LMB–DNYD) and timestamp fragment.
+
+//shiftOctet Microsoft repo quantum resist txtxtx
